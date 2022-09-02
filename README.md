@@ -1,4 +1,4 @@
-# RODE CLONE
+# RODE CLONE - [Link](https://rode1-clone.netlify.app/)
 ![Ineuron & LCO](https://img.shields.io/badge/Ineuron-LCO-brightgreen) 
 ![Ineuron & LCO](https://img.shields.io/badge/Hitesh%20Choudhary-Full--stack--JS--bootcamp-brightgreen)
 <br>
@@ -12,8 +12,6 @@
 ***
 ## Time taken :
 - 10+ hours to complete this project. (Worth the time spent, Great learning!!!)
-***
-## Project [Link](https://lively-medovik-22c7ed.netlify.app/)
 ***
 ## Project screenshots :
 ![Project-18/Rode-Clone](./Project-Screenshots/1.PNG)
