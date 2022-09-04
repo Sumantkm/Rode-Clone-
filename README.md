@@ -6,7 +6,7 @@
 ![Tailwind css](https://img.shields.io/badge/Tailwind-css-yellowgreen)
 
 ## Skills learnt :
-- Designing using only **Tailwind** by reading through the docs with minimal or no **Css**. 
+- Designing using only **Tailwind** by reading through the docs with minimal or no usage of **Css**. 
 - Designing **Header**, **Hero**, **Cards**, **Blog**, **Call to action** and much more.
 - Got more knowledge on making **Responsive design**.
 ***
